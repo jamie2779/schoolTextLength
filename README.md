@@ -1,2 +1,2 @@
 # schoolTextLength
-I made it in 2022, Cuz i was bored as a senior in highschool
+I made this in 2022. So it's based on the information from 2022.
